@@ -43,8 +43,8 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-space$$
   - LGUI
+  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: NUMBER}
   - SYMBOL
   - {t: '$$mdi:keyboard-tab$$', h: Fn}
